@@ -1,0 +1,19 @@
+services:
+  generator:
+    build: .
+    environment:
+      TZ: ${TZ:-Asia/Seoul}
+      MODEL_ID: ${MODEL_ID:-runwayml/stable-diffusion-v1-5}
+      IMAGE_COUNT: ${IMAGE_COUNT:-5}
+      WIDTH: ${WIDTH:-512}
+      HEIGHT: ${HEIGHT:-512}
+      STEPS: ${STEPS:-28}
+      GUIDANCE_SCALE: ${GUIDANCE_SCALE:-7.5}
+      HF_HOME: /app/model-cache/huggingface
+      OUTPUT_DIR: /app/output
+      SUBJECTS_FILE: /app/subjects.json
+    volumes:
+      - ./output:/app/output
+      - ./logs:/app/logs
+      - ./model-cache:/app/model-cache
+      - ./subjects.json:/app/subjects.json:ro

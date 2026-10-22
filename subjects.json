@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "bauhaus-abstract-design",
+    "name": "Bauhaus Abstract Design",
+    "category": "abstract-art",
+    "prompt": "Bauhaus inspired abstract design, simple geometric shapes, yellow, blue, red and black, clean composition, minimalist, high quality illustration, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "still-life-vase-apples",
+    "name": "Still Life with Ceramic Vase and Apples",
+    "category": "still-life",
+    "prompt": "Still life with ceramic vase and apples, linen tablecloth, soft morning light, realistic oil painting, detailed texture, classic European painting, high quality, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "still-life-teapot-lemons",
+    "name": "Still Life with Teapot and Lemons",
+    "category": "still-life",
+    "prompt": "Still life with teapot, teacup and lemons, wooden table, warm afternoon light, realistic painting, rich texture, classic composition, museum quality, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "strawberry-shortcake-slice",
+    "name": "Strawberry Shortcake Slice",
+    "category": "food",
+    "prompt": "A slice of strawberry shortcake, fresh whipped cream, soft natural light, realistic food photography, centered composition, shallow depth of field, high detail, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "chocolate-layer-cake",
+    "name": "Chocolate Layer Cake",
+    "category": "food",
+    "prompt": "Chocolate layer cake, rich chocolate frosting, dark wooden table, soft studio lighting, realistic food photography, centered composition, high detail, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "hard-candies-glass-bowl",
+    "name": "Hard Candies in a Glass Bowl",
+    "category": "food",
+    "prompt": "Colorful hard candies in a glass bowl, bright pastel colors, soft natural light, realistic food photography, centered composition, high detail, shallow depth of field, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "glazed-donut",
+    "name": "Glazed Donut",
+    "category": "food",
+    "prompt": "Glazed donut, white ceramic plate, soft morning light, realistic food photography, centered composition, high detail, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "vanilla-ice-cream",
+    "name": "Vanilla Ice Cream Scoop",
+    "category": "food",
+    "prompt": "Vanilla ice cream scoop in a glass bowl, soft natural light, realistic food photography, centered composition, high detail, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "stacked-colorful-macarons",
+    "name": "Stacked Colorful Macarons",
+    "category": "food",
+    "prompt": "Colorful macarons stacked neatly, minimal white background, soft studio lighting, realistic food photography, high detail, centered composition, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "vanilla-pink-cupcake",
+    "name": "Vanilla Cupcake with Pink Frosting",
+    "category": "food",
+    "prompt": "Vanilla cupcake with pink buttercream frosting, soft natural light, realistic food photography, centered composition, high detail, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "chocolate-whipped-cupcake",
+    "name": "Chocolate Cupcake with Whipped Cream",
+    "category": "food",
+    "prompt": "Chocolate cupcake with whipped cream frosting, wooden table, warm natural light, realistic food photography, centered composition, high detail, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "white-sandwich-bread",
+    "name": "White Sandwich Bread Loaf",
+    "category": "food",
+    "prompt": "Fresh white sandwich bread loaf, wooden cutting board, soft morning light, realistic food photography, centered composition, high detail, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "fresh-yellow-lemon",
+    "name": "Fresh Yellow Lemon",
+    "category": "product-photography",
+    "prompt": "Fresh yellow lemon, white background, soft natural light, realistic product photography, centered composition, high detail, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "white-pillar-candle",
+    "name": "White Pillar Candle",
+    "category": "object-photography",
+    "prompt": "White pillar candle, wooden table, warm candlelight, realistic photography, centered composition, high detail, soft shadows, professional photography, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  },
+  {
+    "slug": "surreal-floating-doors",
+    "name": "Mysterious Surreal Landscape",
+    "category": "surreal-art",
+    "prompt": "Mysterious surreal landscape, floating doors, endless staircase, red moon, quiet atmosphere, soft mist, symbolic composition, oil painting, rich texture, high detail, no text",
+    "negative_prompt": "text, watermark, logo, blurry, low quality, distorted, deformed, duplicate, cropped, out of frame"
+  }
+]
